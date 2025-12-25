@@ -2,7 +2,7 @@
 - grade 11th, computer science student @ acs.
 - currently learning rust and competitive progamming.
 ### projects
-- [miyuki](https://github.com/pyphat/miyuki) - a humainzed ergonomic terminal-based text editor
+- [miyuki](https://github.com/pyphat/miyuki) - a humanized ergonomic terminal-based text editor
   - status: in progress
   - lang:   rust
 - [kei](https://github.com/pyphat/kei)       - ai manga translator that help the reader learn the language
