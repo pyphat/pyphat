@@ -10,10 +10,7 @@
   - lang: python
 ### contacts
 - gmail: piyaphatliamwilai@gmail.com
-- ig (prefered): pyphat
+- ig (prefered): autpiyaphat
 ---
 > *In life, good deeds often go unrewarded. However, with a large enough sample size, seemingly skewed outcomes will converge to an expected value,
-> and things will eventually turn out in your favour*
-> 
-> Narrator,
-> Kaguya-sama: Love is War, Chapter 195.
+> and things will eventually turn out in your favour.*
