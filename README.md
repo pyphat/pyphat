@@ -15,7 +15,7 @@
   - SSD: 1TB
   - OS (Dual Boot)
     - Windows 11 (695GB)
-    - Manjaro (256GB)
+    - Ubuntu (256GB)
 ### contacts
 - gmail: piyaphatliamwilai@gmail.com
 - ig (prefered): autpiyaphat
