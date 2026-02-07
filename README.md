@@ -8,14 +8,6 @@
 - [kei](https://github.com/pyphat/kei)       - ai manga translator that help the reader learn the language
   - status: in progress
   - lang: python
-### setup
-- Lenovo Legion 5 15IRX9
-  - GPU: RTX 4060 8GB Laptop
-  - RAM: 24GB
-  - SSD: 1TB
-  - OS (Dual Boot)
-    - Windows 11 (695GB)
-    - Ubuntu (256GB)
 ### contacts
 - gmail: piyaphatliamwilai@gmail.com
 - ig (prefered): autpiyaphat
